@@ -470,3 +470,8 @@ footer h4 {
     display: none;
   }
 }
+
+.stop-scrolling {
+  height: 100%;
+  overflow: hidden;
+}
