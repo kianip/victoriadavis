@@ -429,6 +429,11 @@ footer h4 {
     padding: 5rem 5rem;
   }
 
+  .stop-scrolling {
+    height: 100%;
+    overflow: hidden;
+  }
+
   /* about section */
 
   .about-text div {
@@ -469,9 +474,4 @@ footer h4 {
   .contact img {
     display: none;
   }
-}
-
-.stop-scrolling {
-  height: 100%;
-  overflow: hidden;
 }
